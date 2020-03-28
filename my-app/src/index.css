@@ -18,7 +18,7 @@ ol, ul {
 }
 
 .square {
-  background: #fff;
+  background: orange;
   border: 1px solid #999;
   float: left;
   font-size: 24px;
@@ -43,8 +43,14 @@ ol, ul {
 .game {
   display: flex;
   flex-direction: row;
+  color: blue;
+  position: center;
 }
 
 .game-info {
   margin-left: 20px;
+}
+
+.board {
+  
 }
